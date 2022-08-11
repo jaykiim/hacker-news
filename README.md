@@ -5,5 +5,9 @@
 XML async --> promise -->  async await 순으로 발전시켜나갔습니다.  
 강의를 보며 학습하였습니다.
 
+```
+parcel index.html
+```
+
 ![image](https://user-images.githubusercontent.com/81809559/184065851-21f86373-f857-4364-b760-6c6bd3480a21.png)
 
